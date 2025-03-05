@@ -1,4 +1,4 @@
 # FinanceRAG
 RAG+deepseek-r1 虚拟金融专家
-![image](https://github.com/user-attachments/assets/c240efb0-01ae-461f-ac08-38973717a63a)
-![image](https://github.com/user-attachments/assets/44eac5e7-7562-4398-b445-51aecd6fb85c)
+![image](https://github.com/user-attachments/assets/ef118593-9a22-46a5-be17-20a0df955cc2)
+
